@@ -1,0 +1,6 @@
+E:\Documents(E)\cpp\R6Randomizer_1.0.0\R6Randomizer_1.0.0\bin\Release\net6.0-windows\publish\v2\R6Randomizer_1.0.0.exe
+E:\Documents(E)\cpp\R6Randomizer_1.0.0\R6Randomizer_1.0.0\bin\Release\net6.0-windows\publish\v2\R6Randomizer_1.0.0.dll
+E:\Documents(E)\cpp\R6Randomizer_1.0.0\R6Randomizer_1.0.0\bin\Release\net6.0-windows\publish\v2\R6Randomizer_1.0.0.deps.json
+E:\Documents(E)\cpp\R6Randomizer_1.0.0\R6Randomizer_1.0.0\bin\Release\net6.0-windows\publish\v2\R6Randomizer_1.0.0.runtimeconfig.json
+E:\Documents(E)\cpp\R6Randomizer_1.0.0\R6Randomizer_1.0.0\bin\Release\net6.0-windows\publish\v2\R6Randomizer_1.0.0.dll.config
+E:\Documents(E)\cpp\R6Randomizer_1.0.0\R6Randomizer_1.0.0\bin\Release\net6.0-windows\publish\v2\R6Randomizer_1.0.0.pdb
